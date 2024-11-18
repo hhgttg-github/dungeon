@@ -1,0 +1,23 @@
+ID,key,name,user,E-slot,as,dice,price,opecode,operand
+0,name less,名前無しアイテム,#b0000,nil,nil,0d0+0,0,@nop,nil
+10,knife,ナイフ,#b1111,1h-w,weapon,1d4+0,3,@nop,nil
+11,mace,鎚,#b0111,1h-w,weapon,1d6+0,5,@nop,nil
+12,short sword,短剣,#b0101,1h-w,weapon,1d6+0,5,@nop,nil
+13,long sword,長剣,#b0001,1h-w,weapon,1d8+0,10,@nop,nil
+14,broad sword,幅広剣,#b0001,2h-w,weapon,2d6+1,15,@nop,nil
+15,stuff,杖,#b1111,2h-w,weapon,1d4+1,12,@nop,nil
+100,robe,ローブ,#b1111,armor,armor,1d2+0,4,@nop,nil
+101,leather armor,皮鎧,#b0111,armor,armor,1d4+0,10,@nop,nil
+102,chain mail,鎖帷子,#b0011,armor,armor,1d4+1,15,@nop,nil
+103,breast plate,胸当て,#b0011,armor,armor,1d6+1,20,@nop,nil
+104,plate mail,プレートメール,#b0001,armor,armor,2d4+0,30,@nop,nil
+105,small shield,小盾,#b0111,shield,armor,1d4+0,5,@nop,nil
+106,large shield,大盾,#b0011,shield,armor,1d6+0,10,@nop,nil
+107,cap,頭巾,#b1111,helm,armor,1d2+0,8,@nop,nil
+108,helm,ヘルメット,#b0011,helm,armor,1d2+1,10,@nop,nil
+109,gauntlet,籠手,#b0011,gloves,armor,1d2+1,20,@nop,nil
+110,boots,ブーツ,#b1111,boots,armor,1d2+0,20,@nop,nil
+1000,torch,たいまつ,#b0000,nil,item,0d0+0,2,@light,10d8+20
+1001,lantern,ランタン,#b0000,nil,item,0d0+0,30,@light,20d8+100
+1002,map,地図,#b0000,nil,item,0d0+0,200,@map,nil
+1003,healing potion,回復薬,#b0000,nil,potion,0d0+0,100,@healing,2d6+6

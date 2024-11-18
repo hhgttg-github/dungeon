@@ -1,0 +1,8 @@
+id,key,name,dice,hpmax,exp,gold,item%,item,%1,action1,%2,action2,%3,action3,%4,action4,%5,action5,%6,action6,%7,action7,%8,action8
+0,nameless,名無し,1d2+0,1,0,0,0,nil,1,nil,0,nil,0,nil,0,nil,0,nil,0,nil,0,nil,0,nil1
+1,slime,スライム,1d4+0,3,1,2,0,nil,80,attack,20,run,0,nil,0,nil,0,nil,0,nil,0,nil,0,nil1
+2,kobold,コボルド,1d6+0,5,3,4,0,nil,80,attack,20,run,0,nil,0,nil,0,nil,0,nil,0,nil,0,nil1
+3,skelton,スケルトン,2d4+1,8,5,8,0,nil,80,attack,20,run,0,nil,0,nil,0,nil,0,nil,0,nil,0,nil1
+4,lv2 rogue,Lv2.追い剥ぎ,1d8+2,6,10,16,0,nil,60,attack,20,steal,20,run,0,nil,0,nil,0,nil,0,nil,0,nil1
+5,ogre,オーガー,1d10+3,10,20,32,0,nil,80,attack,20,run,0,nil,0,nil,0,nil,0,nil,0,nil,0,nil1
+6,dragon,ドラゴン,2d10+6,25,40,128,0,nil,80,attack,10,breath,10,run,0,nil,0,nil,0,nil,0,nil,0,nil1
